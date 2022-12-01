@@ -1,1 +1,6 @@
 to auto-solve press enter
+needs pygame
+to install
+open COMMMAND PROMPT
+
+ENTER PIP INSTALL PYGAME
