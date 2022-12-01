@@ -16,4 +16,4 @@ for Wordle:
 https://www.youtube.com/watch?v=NCgN4qtbh2Q
 
 for Wordle-solve:
-hhttps://towardsdatascience.com/wordle-solver-using-python-3-3c3bccd3b4fb
+https://towardsdatascience.com/wordle-solver-using-python-3-3c3bccd3b4fb
