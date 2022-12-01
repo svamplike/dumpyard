@@ -4,7 +4,7 @@ This for now includes two project at the time of 12-01-2022 9:43 PM
 1) Sudoku with Solving Capabilites(Backtracking Basically)
 2) Wordle With Solving Capabilites(Basic Stack-queue/loops-list)
 
-Still I'M working on my Memorizer project but it seems to have many obstacles but still its a long
+Still I'M working on my Memorizer project but it seems to have many obstacles but still its a long way
 hence these are the shorter ones.
 
 # Biblograph
