@@ -43,7 +43,7 @@ class SunDetector:
     def find_sun(self):
         if self.frame is not None:
             self.gry_img = cv2.cvtColor(self.frame, cv2.COLOR_BGR2GRAY)
-            self.blurredImage = cv2.GaussianBlur(self.gry_img, (15, 15), 0)
+            self.blurredImage = cv2.GaussianBlur(self.gry_img, (15, 15), 0) #gaussian filter
             _, self.threshold_img = cv2.threshold(self.blurredImage, 240, 255, cv2.THRESH_BINARY)
 
             # Find contours to detect the sun
