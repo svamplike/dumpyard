@@ -31,6 +31,9 @@ for i, image_file in enumerate(image_files):
     pos[1] = AngleY
     print(int(pos[0]))
     print(int(pos[1]))
+    x = sun_detector.errx(sun_detector.sunCenter)
+    y = sun_detector.erry(sun_detector.sunCenter)
+    print("coordinates error:" , x,y)
 
 
     # Draw the circle at the sun's location
